@@ -1,0 +1,169 @@
+id,groupName,character
+0,Stark,
+1,Stark,Arya Stark
+2,Stark,Benjen Stark
+3,Stark,Bran Stark
+4,Stark,Catelyn Stark
+5,Stark,Eddard Stark
+6,Stark,Ghost
+7,Stark,Grey Wind
+8,Stark,Jon Snow
+9,Stark,Lady
+10,Stark,Nymeria
+11,Stark,Rickon Stark
+12,Stark,Robb Stark
+13,Stark,Sansa Stark
+14,Stark,Shaggydog
+15,Stark,Summer
+16,Targaryen,
+17,Targaryen,Daenerys Targaryen
+18,Targaryen,Drogon
+19,Targaryen,Rhaegal
+20,Targaryen,Viserion
+21,Targaryen,Viserys Targaryen
+22,Baratheon,
+23,Baratheon,Joffrey Baratheon
+24,Baratheon,Myrcella Baratheon
+25,Baratheon,Renly Baratheon
+26,Baratheon,Robert Baratheon
+27,Baratheon,Selyse Baratheon
+28,Baratheon,Shireen Baratheon
+29,Baratheon,Stannis Baratheon
+30,Baratheon,Tommen Baratheon
+31,Baratheon,Gendry
+32,Lannister,
+33,Lannister,Cersei Lannister
+34,Lannister,Jaime Lannister
+35,Lannister,Kevan Lannister
+36,Lannister,Lancel Lannister
+37,Lannister,Tyrion Lannister
+38,Lannister,Tywin Lannister
+39,Night's Watch,
+40,Night's Watch,Alliser Thorne
+41,Night's Watch,Eddison Tollett
+42,Night's Watch,Grenn
+43,Night's Watch,Jeor Mormont
+44,Night's Watch,Karl Tanner
+45,Night's Watch,Maester Aemon
+46,Night's Watch,Olly
+47,Night's Watch,Othell Yarwyck
+48,Night's Watch,Pypar
+49,Night's Watch,Qhorin Halfhand
+50,Night's Watch,Rast
+51,Night's Watch,Samwell Tarly
+52,Night's Watch,Yoren
+53,Dothraki,
+54,Dothraki,Doreah
+55,Dothraki,Irri
+56,Dothraki,Khal Drogo
+57,Dothraki,Rakharo
+58,Dothraki,Qhono
+59,Greyjoy,
+60,Greyjoy,Balon Greyjoy
+61,Greyjoy,Euron Greyjoy
+62,Greyjoy,Theon Greyjoy
+63,Greyjoy,Yara Greyjoy
+64,Tyrell,
+65,Tyrell,Loras Tyrell
+66,Tyrell,Mace Tyrell
+67,Tyrell,Margaery Tyrell
+68,Tyrell,Olenna Tyrell
+69,Wildlings,
+70,Wildlings,Baby Sam
+71,Wildlings,Craster
+72,Wildlings,Gilly
+73,Wildlings,Mag the Mighty
+74,Wildlings,Mance Rayder
+75,Wildlings,Osha
+76,Wildlings,Rattleshirt
+77,Wildlings,Thenn Warg
+78,Wildlings,Tormund Giantsbane
+79,Wildlings,Wun Wun
+80,Wildlings,Ygritte
+81,Martell,
+82,Martell,Doran Martell
+83,Martell,Ellaria Sand
+84,Martell,Nymeria Sand
+85,Martell,Obara Sand
+86,Martell,Oberyn Martell
+87,Martell,Trystane Martell
+88,Martell,Tyene Sand
+89,Frey,
+90,Frey,Black Walder Rivers
+91,Frey,Lothar Frey
+92,Frey,Walder Frey
+93,Tully,
+94,Tully,Brynden Tully
+95,Tully,Edmure Tully
+96,White Walkers,
+97,White Walkers,Mag the Mighty Wight
+98,White Walkers,The Night King
+99,White Walkers,White Walker
+100,White Walkers,Wight Wildling Girl
+101,White Walkers,Wun Wun Wight
+102,Include,
+103,Include,Archmaester Ebrose
+104,Include,Barristan Selmy
+105,Include,Beric Dondarrion
+106,Include,Brienne of Tarth
+107,Include,Bronn
+108,Include,Daario Naharis
+109,Include,Davos Seaworth
+110,Include,Gendry
+111,Include,Grand Maester Pycelle
+112,Include,Greatjon Umber
+113,Include,Gregor Clegane
+114,Include,Greizhen mo Ullhor
+115,Include,Grey Worm
+116,Include,Hallyne
+117,Include,High Sparrow
+118,Include,Hizdahr zo Loraq
+119,Include,Hodor
+120,Include,Hot Pie
+121,Include,Janos Slynt
+122,Include,Jaqen H'ghar
+123,Include,Jojen Reed
+124,Include,Jorah Mormont
+125,Include,Jory Cassel
+126,Include,Kraznys mo Nakloz
+127,Include,Lady Crane
+128,Include,Leaf
+129,Include,Locke
+130,Include,Lommy Greenhands
+131,Include,Lord Varys
+132,Include,Lyanna Mormont
+133,Include,Lysa Arryn
+134,Include,Maester Luwin
+135,Include,Matthos Seaworth
+136,Include,Meera Reed
+137,Include,Melisandre
+138,Include,Mirri Maz Duur
+139,Include,Missandei
+140,Include,Olyvar
+141,Include,Petyr Baelish
+142,Include,Podrick Payne
+143,Include,Prendahl na Ghezn
+144,Include,Pyat Pree
+145,Include,Qyburn
+146,Include,Ramsay Snow
+147,Include,Razdal mo Eraz
+148,Include,Rickard Karstark
+149,Include,Robin Arryn
+150,Include,Rodrik Cassel
+151,Include,Roose Bolton
+152,Include,Ros
+153,Include,Salladhor Saan
+154,Include,Sandor Clegane
+155,Include,Septa Mordane
+156,Include,Septa Unella
+157,Include,Shae
+158,Include,Silk King
+159,Include,Smalljon Umber
+160,Include,Syrio Forel
+161,Include,Talisa Maegyr
+162,Include,The Waif
+163,Include,Thoros of Myr
+164,Include,Three-Eyed Raven
+165,Include,Xaro Xhoan Daxos
+166,Include,Yezzan zo Qaggaz
+167,Include,Yohn Royce

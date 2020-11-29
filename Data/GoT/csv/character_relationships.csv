@@ -1,0 +1,891 @@
+id,character_id,characterName,label,value
+0,CH_1,Aegon Targaryen,parents,Elia Martell
+1,CH_1,Aegon Targaryen,parents,Rhaegar Targaryen
+2,CH_1,Aegon Targaryen,siblings,Rhaenys Targaryen
+3,CH_1,Aegon Targaryen,siblings,Jon Snow
+4,CH_1,Aegon Targaryen,killedBy,Gregor Clegane
+5,CH_2,Aeron Greyjoy,siblings,Balon Greyjoy
+6,CH_2,Aeron Greyjoy,siblings,Euron Greyjoy
+7,CH_3,Aerys II Targaryen,killed,Brandon Stark
+8,CH_3,Aerys II Targaryen,killed,Rickard Stark
+9,CH_3,Aerys II Targaryen,servedBy,Arthur Dayne
+10,CH_3,Aerys II Targaryen,servedBy,Jaime Lannister
+11,CH_3,Aerys II Targaryen,parentOf,Daenerys Targaryen
+12,CH_3,Aerys II Targaryen,parentOf,Rhaegar Targaryen
+13,CH_3,Aerys II Targaryen,parentOf,Viserys Targaryen
+14,CH_3,Aerys II Targaryen,siblings,Rhaella Targaryen
+15,CH_3,Aerys II Targaryen,marriedEngaged,Rhaella Targaryen
+16,CH_3,Aerys II Targaryen,killedBy,Jaime Lannister
+17,CH_4,Akho,killedBy,Daario Naharis
+18,CH_5,Alliser Thorne,killed,Jon Snow
+19,CH_5,Alliser Thorne,killedBy,Jon Snow
+20,CH_6,Alton Lannister,killedBy,Jaime Lannister
+21,CH_7,Alys Karstark,parents,Harald Karstark
+22,CH_8,Amory Lorch,killed,Yoren
+23,CH_8,Amory Lorch,killedBy,Jaqen H'ghar
+24,CH_11,Areo Hotah,killedBy,Tyene Sand
+25,CH_11,Areo Hotah,serves,Doran Martell
+26,CH_14,Arthur Dayne,killedBy,Howland Reed
+27,CH_14,Arthur Dayne,killedBy,Eddard Stark
+28,CH_14,Arthur Dayne,serves,Aerys II Targaryen
+29,CH_15,Arya Stark,siblings,Robb Stark
+30,CH_15,Arya Stark,siblings,Sansa Stark
+31,CH_15,Arya Stark,siblings,Bran Stark
+32,CH_15,Arya Stark,siblings,Rickon Stark
+33,CH_15,Arya Stark,killed,Red Keep Stableboy
+34,CH_15,Arya Stark,killed,Frey Soldier #1
+35,CH_15,Arya Stark,killed,Polliver
+36,CH_15,Arya Stark,killed,Rorge
+37,CH_15,Arya Stark,killed,Ghita
+38,CH_15,Arya Stark,killed,Meryn Trant
+39,CH_15,Arya Stark,killed,The Waif
+40,CH_15,Arya Stark,killed,Black Walder Rivers
+41,CH_15,Arya Stark,killed,Lothar Frey
+42,CH_15,Arya Stark,killed,Walder Frey
+43,CH_15,Arya Stark,killed,Petyr Baelish
+44,CH_15,Arya Stark,killed,The Night King
+45,CH_15,Arya Stark,killed,White Walker
+46,CH_15,Arya Stark,killed,Viserion
+47,CH_15,Arya Stark,parents,Eddard Stark
+48,CH_15,Arya Stark,parents,Catelyn Stark
+49,CH_15,Arya Stark,guardedBy,Nymeria
+50,CH_16,Baby Sam,actors,"{'actorName': 'William Wilson', 'actorLink': '/name/nm8251159/', 'seasonsActive': [7]}"
+51,CH_16,Baby Sam,actors,"{'actorName': 'James Wilson', 'actorLink': '/name/nm8251160/', 'seasonsActive': [7]}"
+52,CH_16,Baby Sam,parents,Samwell Tarly
+53,CH_16,Baby Sam,parents,Gilly
+54,CH_17,Balon Greyjoy,killedBy,Euron Greyjoy
+55,CH_17,Balon Greyjoy,parentOf,Yara Greyjoy
+56,CH_17,Balon Greyjoy,parentOf,Theon Greyjoy
+57,CH_17,Balon Greyjoy,siblings,Euron Greyjoy
+58,CH_17,Balon Greyjoy,siblings,Aeron Greyjoy
+59,CH_19,Barristan Selmy,killedBy,Sons of the Harpy
+60,CH_19,Barristan Selmy,serves,Daenerys Targaryen
+61,CH_20,Benjen Stark,parents,Rickard Stark
+62,CH_20,Benjen Stark,siblings,Brandon Stark
+63,CH_20,Benjen Stark,siblings,Lyanna Stark
+64,CH_20,Benjen Stark,siblings,Eddard Stark
+65,CH_20,Benjen Stark,killedBy,Wights
+66,CH_21,Beric Dondarrion,actors,"{'actorName': 'Richard Dormer', 'actorLink': '/name/nm0233807/', 'seasonsActive': [3, 6, 7, 8]}"
+67,CH_21,Beric Dondarrion,actors,"{'actorName': 'David Michael Scott', 'actorLink': '/name/nm2364108/', 'seasonsActive': [1]}"
+68,CH_21,Beric Dondarrion,killedBy,Sandor Clegane
+69,CH_21,Beric Dondarrion,killedBy,Wights
+70,CH_23,Biter,killedBy,Sandor Clegane
+71,CH_25,Black Walder Rivers,killed,Catelyn Stark
+72,CH_25,Black Walder Rivers,killedBy,Arya Stark
+73,CH_25,Black Walder Rivers,parents,Walder Frey
+74,CH_27,Bowen Marsh,killed,Jon Snow
+75,CH_27,Bowen Marsh,killedBy,Jon Snow
+76,CH_28,Brandon Stark,killedBy,Aerys II Targaryen
+77,CH_28,Brandon Stark,parents,Rickard Stark
+78,CH_28,Brandon Stark,siblings,Lyanna Stark
+79,CH_28,Brandon Stark,siblings,Benjen Stark
+80,CH_28,Brandon Stark,siblings,Eddard Stark
+81,CH_29,Bran Stark,siblings,Robb Stark
+82,CH_29,Bran Stark,siblings,Sansa Stark
+83,CH_29,Bran Stark,siblings,Arya Stark
+84,CH_29,Bran Stark,siblings,Rickon Stark
+85,CH_29,Bran Stark,parents,Eddard Stark
+86,CH_29,Bran Stark,parents,Catelyn Stark
+87,CH_29,Bran Stark,guardedBy,Summer
+88,CH_31,Brienne of Tarth,killed,Soldier Tom
+89,CH_31,Brienne of Tarth,killed,Stannis Baratheon
+90,CH_31,Brienne of Tarth,killed,Bolton Officer
+91,CH_31,Brienne of Tarth,serves,Renly Baratheon
+92,CH_31,Brienne of Tarth,serves,Catelyn Stark
+93,CH_31,Brienne of Tarth,serves,Sansa Stark
+94,CH_31,Brienne of Tarth,serves,Bran Stark
+95,CH_31,Brienne of Tarth,servedBy,Podrick Payne
+96,CH_32,Bronn,killed,Vardis Egen
+97,CH_32,Bronn,killed,Matthos Seaworth
+98,CH_32,Bronn,killed,Lead Dornish Guard
+99,CH_32,Bronn,marriedEngaged,Lollys Stokeworth
+100,CH_33,Brother Ray,killedBy,Lem Lemoncloak
+101,CH_34,Brynden Tully,siblings,Hoster Tully
+102,CH_36,Catelyn Stark,houseName,Stark
+103,CH_36,Catelyn Stark,houseName,Tully
+104,CH_36,Catelyn Stark,killed,Joyeuse Erenford
+105,CH_36,Catelyn Stark,killedBy,Black Walder Rivers
+106,CH_36,Catelyn Stark,parents,Hoster Tully
+107,CH_36,Catelyn Stark,parentOf,Robb Stark
+108,CH_36,Catelyn Stark,parentOf,Sansa Stark
+109,CH_36,Catelyn Stark,parentOf,Arya Stark
+110,CH_36,Catelyn Stark,parentOf,Bran Stark
+111,CH_36,Catelyn Stark,parentOf,Rickon Stark
+112,CH_36,Catelyn Stark,siblings,Lysa Arryn
+113,CH_36,Catelyn Stark,siblings,Edmure Tully
+114,CH_36,Catelyn Stark,marriedEngaged,Eddard Stark
+115,CH_36,Catelyn Stark,marriedEngaged,Brandon Stark
+116,CH_37,Catspaw Assassin,killedBy,Summer
+117,CH_38,Cersei Lannister,houseName,Lannister
+118,CH_38,Cersei Lannister,houseName,Baratheon
+119,CH_38,Cersei Lannister,parents,Tywin Lannister
+120,CH_38,Cersei Lannister,parentOf,Joffrey Baratheon
+121,CH_38,Cersei Lannister,parentOf,Myrcella Baratheon
+122,CH_38,Cersei Lannister,parentOf,Tommen Baratheon
+123,CH_38,Cersei Lannister,siblings,Jaime Lannister
+124,CH_38,Cersei Lannister,siblings,Tyrion Lannister
+125,CH_38,Cersei Lannister,marriedEngaged,Robert Baratheon
+126,CH_38,Cersei Lannister,killed,Lancel Lannister
+127,CH_38,Cersei Lannister,killed,High Sparrow
+128,CH_38,Cersei Lannister,killed,Loras Tyrell
+129,CH_38,Cersei Lannister,killed,Mace Tyrell
+130,CH_38,Cersei Lannister,killed,Margaery Tyrell
+131,CH_38,Cersei Lannister,killed,Kevan Lannister
+132,CH_38,Cersei Lannister,killed,Tyene Sand
+133,CH_38,Cersei Lannister,killedBy,Roof collapse
+134,CH_42,Craster,killedBy,Karl Tanner
+135,CH_43,Daario Naharis,actors,"{'actorName': 'Ed Skrein', 'actorLink': '/name/nm4534098/', 'seasonsActive': [3]}"
+136,CH_43,Daario Naharis,actors,"{'actorName': 'Michiel Huisman', 'actorLink': '/name/nm0401264/', 'seasonsActive': [4, 5, 6]}"
+137,CH_43,Daario Naharis,killed,Mero
+138,CH_43,Daario Naharis,killed,Prendahl na Ghezn
+139,CH_43,Daario Naharis,killed,Oznak zo Pahl
+140,CH_43,Daario Naharis,killed,Mossador
+141,CH_43,Daario Naharis,killed,Iggo
+142,CH_43,Daario Naharis,killed,Akho
+143,CH_43,Daario Naharis,serves,Daenerys Targaryen
+144,CH_44,Daenerys Targaryen,parents,Aerys II Targaryen
+145,CH_44,Daenerys Targaryen,parents,Rhaella Targaryen
+146,CH_44,Daenerys Targaryen,siblings,Rhaegar Targaryen
+147,CH_44,Daenerys Targaryen,siblings,Viserys Targaryen
+148,CH_44,Daenerys Targaryen,killed,Khal Drogo
+149,CH_44,Daenerys Targaryen,killed,Mirri Maz Duur
+150,CH_44,Daenerys Targaryen,killed,Doreah
+151,CH_44,Daenerys Targaryen,killed,Xaro Xhoan Daxos
+152,CH_44,Daenerys Targaryen,killed,Khal Rhalko
+153,CH_44,Daenerys Targaryen,killed,Khal Brozho
+154,CH_44,Daenerys Targaryen,killed,Khal Qorro
+155,CH_44,Daenerys Targaryen,killed,Khal Forzho
+156,CH_44,Daenerys Targaryen,killed,Khal Moro
+157,CH_44,Daenerys Targaryen,killed,Dothraki Bloodrider #1
+158,CH_44,Daenerys Targaryen,killed,Dothraki Bloodrider #2
+159,CH_44,Daenerys Targaryen,killed,Randyll Tarly
+160,CH_44,Daenerys Targaryen,killed,Dickon Tarly
+161,CH_44,Daenerys Targaryen,killed,Eleanor
+162,CH_44,Daenerys Targaryen,killed,Eleanor's Daughter
+163,CH_44,Daenerys Targaryen,killed,Lord Varys
+164,CH_44,Daenerys Targaryen,servedBy,Barristan Selmy
+165,CH_44,Daenerys Targaryen,servedBy,Daario Naharis
+166,CH_44,Daenerys Targaryen,servedBy,Grey Worm
+167,CH_44,Daenerys Targaryen,servedBy,Jorah Mormont
+168,CH_44,Daenerys Targaryen,servedBy,Missandei
+169,CH_44,Daenerys Targaryen,servedBy,Tyrion Lannister
+170,CH_44,Daenerys Targaryen,parentOf,Rhaego
+171,CH_44,Daenerys Targaryen,marriedEngaged,Khal Drogo
+172,CH_44,Daenerys Targaryen,guardedBy,Drogon
+173,CH_44,Daenerys Targaryen,guardedBy,Rhaegal
+174,CH_44,Daenerys Targaryen,guardedBy,Viserion
+175,CH_44,Daenerys Targaryen,killedBy,Jon Snow
+176,CH_47,Davos Seaworth,serves,Stannis Baratheon
+177,CH_47,Davos Seaworth,serves,Jon Snow
+178,CH_47,Davos Seaworth,parentOf,Matthos Seaworth
+179,CH_48,Dickon Tarly,actors,"{'actorName': 'Freddie Stroma', 'actorLink': '/name/nm2238815/', 'seasonsActive': [6]}"
+180,CH_48,Dickon Tarly,actors,"{'actorName': 'Tom Hopper', 'actorLink': '/name/nm2584392/', 'seasonsActive': [7]}"
+181,CH_48,Dickon Tarly,killedBy,Daenerys Targaryen
+182,CH_48,Dickon Tarly,parents,Randyll Tarly
+183,CH_48,Dickon Tarly,parents,Melessa Tarly
+184,CH_48,Dickon Tarly,siblings,Samwell Tarly
+185,CH_48,Dickon Tarly,siblings,Talla Tarly
+186,CH_49,Dongo the Giant,killedBy,Night's Watchman
+187,CH_51,Dontos Hollard,killedBy,Petyr Baelish
+188,CH_52,Doran Martell,killedBy,Ellaria Sand
+189,CH_52,Doran Martell,parentOf,Trystane Martell
+190,CH_52,Doran Martell,siblings,Elia Martell
+191,CH_52,Doran Martell,siblings,Oberyn Martell
+192,CH_53,Doreah,killed,Irri
+193,CH_53,Doreah,killedBy,Daenerys Targaryen
+194,CH_54,Dothraki Bloodrider #1,killedBy,Daenerys Targaryen
+195,CH_55,Dothraki Bloodrider #2,killedBy,Daenerys Targaryen
+196,CH_56,Drennan,killedBy,Osha
+197,CH_57,Drogon,siblings,Rhaegal
+198,CH_57,Drogon,siblings,Viserion
+199,CH_57,Drogon,guardianOf,Daenerys Targaryen
+200,CH_57,Drogon,killed,Pyat Pree
+201,CH_57,Drogon,killed,Kraznys mo Nakloz
+202,CH_57,Drogon,killed,Zalla
+203,CH_59,Eddard Stark,guardianOf,Jon Snow
+204,CH_59,Eddard Stark,siblings,Brandon Stark
+205,CH_59,Eddard Stark,siblings,Benjen Stark
+206,CH_59,Eddard Stark,siblings,Lyanna Stark
+207,CH_59,Eddard Stark,parents,Rickard Stark
+208,CH_59,Eddard Stark,killed,Arthur Dayne
+209,CH_59,Eddard Stark,killed,Will
+210,CH_59,Eddard Stark,killed,Lady
+211,CH_59,Eddard Stark,killed,Gerold Hightower
+212,CH_59,Eddard Stark,allies,Howland Reed
+213,CH_59,Eddard Stark,allies,Robert Baratheon
+214,CH_59,Eddard Stark,guardedBy,Jon Arryn
+215,CH_59,Eddard Stark,killedBy,Ilyn Payne
+216,CH_59,Eddard Stark,marriedEngaged,Catelyn Stark
+217,CH_59,Eddard Stark,parentOf,Robb Stark
+218,CH_59,Eddard Stark,parentOf,Sansa Stark
+219,CH_59,Eddard Stark,parentOf,Arya Stark
+220,CH_59,Eddard Stark,parentOf,Bran Stark
+221,CH_59,Eddard Stark,parentOf,Rickon Stark
+222,CH_60,Eddison Tollett,killedBy,Wight
+223,CH_61,Edmure Tully,marriedEngaged,Roslin Frey
+224,CH_61,Edmure Tully,siblings,Catelyn Stark
+225,CH_61,Edmure Tully,siblings,Lysa Arryn
+226,CH_62,Ellaria Sand,killed,Myrcella Baratheon
+227,CH_62,Ellaria Sand,killed,Doran Martell
+228,CH_62,Ellaria Sand,parentOf,Tyene Sand
+229,CH_62,Ellaria Sand,marriedEngaged,Oberyn Martell
+230,CH_63,Elia Martell,marriedEngaged,Rhaegar Targaryen
+231,CH_63,Elia Martell,parentOf,Rhaenys Targaryen
+232,CH_63,Elia Martell,parentOf,Aegon Targaryen
+233,CH_63,Elia Martell,killedBy,Gregor Clegane
+234,CH_63,Elia Martell,siblings,Doran Martell
+235,CH_63,Elia Martell,siblings,Oberyn Martell
+236,CH_65,Euron Greyjoy,killed,Balon Greyjoy
+237,CH_65,Euron Greyjoy,killed,Obara Sand
+238,CH_65,Euron Greyjoy,killed,Nymeria Sand
+239,CH_65,Euron Greyjoy,killed,Rhaegal
+240,CH_65,Euron Greyjoy,siblings,Balon Greyjoy
+241,CH_65,Euron Greyjoy,siblings,Aeron Greyjoy
+242,CH_65,Euron Greyjoy,killedBy,Jaime Lannister
+243,CH_68,Gared,killedBy,White Walker
+244,CH_69,Gatins,killedBy,Sandor Clegane
+245,CH_70,Gendry,parents,Robert Baratheon
+246,CH_70,Gendry,killed,Kevin Eldon
+247,CH_70,Gendry,killed,Laurence Spellman
+248,CH_71,Gerold Hightower,killedBy,Eddard Stark
+249,CH_72,Ghost,siblings,Grey Wind
+250,CH_72,Ghost,siblings,Lady
+251,CH_72,Ghost,siblings,Nymeria
+252,CH_72,Ghost,siblings,Summer
+253,CH_72,Ghost,siblings,Shaggydog
+254,CH_72,Ghost,guardianOf,Jon Snow
+255,CH_72,Ghost,killed,Rast
+256,CH_73,Gilly,marriedEngaged,Samwell Tarly
+257,CH_73,Gilly,parentOf,Baby Sam
+258,CH_73,Gilly,parents,Craster
+259,CH_78,Grand Maester Pycelle,killedBy,Little Birds
+260,CH_79,Great Master #1,actors,"{'actorName': 'Emilio Doorgasingh', 'actorLink': '/name/nm0233266/', 'seasonsActive': [4]}"
+261,CH_79,Great Master #1,actors,"{'actorName': 'Gianpiero Cognoli', 'actorLink': '/name/nm2483357/', 'seasonsActive': [5]}"
+262,CH_79,Great Master #1,killedBy,Rebel Slaves
+263,CH_79,Great Master #1,killedBy,Viserion
+264,CH_79,Great Master #1,killedBy,Rhaegal
+265,CH_80,Great Master #2,actors,"{'actorName': 'Derek Horsham', 'actorLink': '/name/nm2471942/', 'seasonsActive': [4]}"
+266,CH_80,Great Master #2,actors,"{'actorName': 'Bobby Asghar', 'actorLink': '/name/nm6800489/', 'seasonsActive': [5]}"
+267,CH_86,Greatjon Umber,parentOf,Smalljon Umber
+268,CH_87,Gregor Clegane,actors,"{'actorName': 'Ian Whyte', 'actorLink': '/name/nm1613839/', 'seasonsActive': [2]}"
+269,CH_87,Gregor Clegane,actors,"{'actorName': 'Conan Stevens', 'actorLink': '/name/nm1947403/', 'seasonsActive': [1]}"
+270,CH_87,Gregor Clegane,actors,"{'actorName': 'Hafþór Júlíus Björnsson', 'actorLink': '/name/nm5491087/', 'seasonsActive': [4, 5, 6, 7, 8]}"
+271,CH_87,Gregor Clegane,serves,Tywin Lannister
+272,CH_87,Gregor Clegane,serves,Cersei Lannister
+273,CH_87,Gregor Clegane,killed,Elia Martell
+274,CH_87,Gregor Clegane,killed,Rhaenys Targaryen
+275,CH_87,Gregor Clegane,killed,Aegon Targaryen
+276,CH_87,Gregor Clegane,killed,Hugh of the Vale
+277,CH_87,Gregor Clegane,killed,Oberyn Martell
+278,CH_87,Gregor Clegane,killed,King's Landing Boaster
+279,CH_87,Gregor Clegane,killed,Faith Militant
+280,CH_87,Gregor Clegane,killed,Missandei
+281,CH_87,Gregor Clegane,killed,Qyburn
+282,CH_87,Gregor Clegane,killedBy,Sandor Clegane
+283,CH_88,Greizhen mo Ullhor,killedBy,Unsullied
+284,CH_89,Grenn,killed,Mag the Mighty
+285,CH_89,Grenn,killedBy,Mag the Mighty
+286,CH_90,Grey Wind,siblings,Lady
+287,CH_90,Grey Wind,siblings,Nymeria
+288,CH_90,Grey Wind,siblings,Summer
+289,CH_90,Grey Wind,siblings,Shaggydog
+290,CH_90,Grey Wind,siblings,Ghost
+291,CH_90,Grey Wind,guardianOf,Robb Stark
+292,CH_90,Grey Wind,killed,Rennick
+293,CH_90,Grey Wind,killedBy,Frey Crossbowmen
+294,CH_91,Grey Worm,killed,Belicho Paenymion
+295,CH_91,Grey Worm,killed,Razdal mo Eraz
+296,CH_91,Grey Worm,killed,Harry Strickland
+297,CH_91,Grey Worm,serves,Daenerys Targaryen
+298,CH_95,Harald Karstark,parents,Rickard Karstark
+299,CH_95,Harald Karstark,parentOf,Alys Karstark
+300,CH_96,Harry Strickland,killedBy,Grey Worm
+301,CH_98,High Septon,killedBy,Kings Landing Rioters
+302,CH_100,High Sparrow,killedBy,Cersei Lannister
+303,CH_101,Hizdahr zo Loraq,killedBy,Sons of the Harpy
+304,CH_102,Hodor,killed,Locke
+305,CH_102,Hodor,killedBy,Wights
+306,CH_105,Howland Reed,allies,Eddard Stark
+307,CH_105,Howland Reed,killed,Arthur Dayne
+308,CH_105,Howland Reed,parentOf,Jojen Reed
+309,CH_105,Howland Reed,parentOf,Meera Reed
+310,CH_106,Hugh of the Vale,killedBy,Gregor Clegane
+311,CH_108,Ilyn Payne,killed,Eddard Stark
+312,CH_109,Irri,killedBy,Doreah
+313,CH_112,Jafer Flowers,killedBy,White Walker
+314,CH_113,Jaime Lannister,parents,Tywin Lannister
+315,CH_113,Jaime Lannister,parentOf,Joffrey Baratheon
+316,CH_113,Jaime Lannister,parentOf,Myrcella Baratheon
+317,CH_113,Jaime Lannister,parentOf,Tommen Baratheon
+318,CH_113,Jaime Lannister,guardianOf,Aerys II Targaryen
+319,CH_113,Jaime Lannister,guardianOf,Robert Baratheon
+320,CH_113,Jaime Lannister,guardianOf,Joffrey Baratheon
+321,CH_113,Jaime Lannister,killed,Aerys II Targaryen
+322,CH_113,Jaime Lannister,killed,Jory Cassel
+323,CH_113,Jaime Lannister,killed,Alton Lannister
+324,CH_113,Jaime Lannister,killed,Torrhen Karstark
+325,CH_113,Jaime Lannister,killed,Olenna Tyrell
+326,CH_113,Jaime Lannister,killed,Euron Greyjoy
+327,CH_113,Jaime Lannister,siblings,Cersei Lannister
+328,CH_113,Jaime Lannister,siblings,Tyrion Lannister
+329,CH_113,Jaime Lannister,killedBy,Roof collapse
+330,CH_114,Janos Slynt,killed,Barra
+331,CH_114,Janos Slynt,killedBy,Jon Snow
+332,CH_115,Jaqen H'ghar,killed,The Tickler
+333,CH_115,Jaqen H'ghar,killed,Amory Lorch
+334,CH_115,Jaqen H'ghar,killed,Despondent Man
+335,CH_118,Jeor Mormont,killedBy,Rast
+336,CH_118,Jeor Mormont,parentOf,Jorah Mormont
+337,CH_120,Joffrey Baratheon,parents,Robert Baratheon
+338,CH_120,Joffrey Baratheon,parents,Cersei Lannister
+339,CH_120,Joffrey Baratheon,parents,Jaime Lannister
+340,CH_120,Joffrey Baratheon,siblings,Myrcella Baratheon
+341,CH_120,Joffrey Baratheon,siblings,Tommen Baratheon
+342,CH_120,Joffrey Baratheon,marriedEngaged,Sansa Stark
+343,CH_120,Joffrey Baratheon,marriedEngaged,Margaery Tyrell
+344,CH_120,Joffrey Baratheon,killed,Ros
+345,CH_120,Joffrey Baratheon,killedBy,Petyr Baelish
+346,CH_120,Joffrey Baratheon,killedBy,Olenna Tyrell
+347,CH_121,Jojen Reed,killedBy,Meera Reed
+348,CH_121,Jojen Reed,siblings,Meera Reed
+349,CH_121,Jojen Reed,parents,Howland Reed
+350,CH_122,Jon Arryn,guardianOf,Eddard Stark
+351,CH_122,Jon Arryn,guardianOf,Robert Baratheon
+352,CH_122,Jon Arryn,allies,Robert Baratheon
+353,CH_122,Jon Arryn,killedBy,Lysa Arryn
+354,CH_123,Jon Snow,houseName,Stark
+355,CH_123,Jon Snow,houseName,Targaryen
+356,CH_123,Jon Snow,parents,Rhaegar Targaryen
+357,CH_123,Jon Snow,parents,Lyanna Stark
+358,CH_123,Jon Snow,guardedBy,Eddard Stark
+359,CH_123,Jon Snow,guardedBy,Ghost
+360,CH_123,Jon Snow,killed,Othor
+361,CH_123,Jon Snow,killed,Qhorin Halfhand
+362,CH_123,Jon Snow,killed,Orell
+363,CH_123,Jon Snow,killed,Karl Tanner
+364,CH_123,Jon Snow,killed,Styr
+365,CH_123,Jon Snow,killed,Mance Rayder
+366,CH_123,Jon Snow,killed,Janos Slynt
+367,CH_123,Jon Snow,killed,White Walker
+368,CH_123,Jon Snow,killed,Alliser Thorne
+369,CH_123,Jon Snow,killed,Othell Yarwyck
+370,CH_123,Jon Snow,killed,Bowen Marsh
+371,CH_123,Jon Snow,killed,Olly
+372,CH_123,Jon Snow,killed,Lyanna Stark
+373,CH_123,Jon Snow,killed,Daenerys Targaryen
+374,CH_123,Jon Snow,killedBy,Alliser Thorne
+375,CH_123,Jon Snow,killedBy,Othell Yarwyck
+376,CH_123,Jon Snow,killedBy,Bowen Marsh
+377,CH_123,Jon Snow,killedBy,Olly
+378,CH_123,Jon Snow,marriedEngaged,Ygritte
+379,CH_125,Jorah Mormont,killed,Qotho
+380,CH_125,Jorah Mormont,killed,Norvoshi Pit Fighter
+381,CH_125,Jorah Mormont,killed,Meereenese Champion
+382,CH_125,Jorah Mormont,serves,Daenerys Targaryen
+383,CH_125,Jorah Mormont,parents,Jeor Mormont
+384,CH_125,Jorah Mormont,killedBy,Wights
+385,CH_126,Jory Cassel,killedBy,Jaime Lannister
+386,CH_126,Jory Cassel,serves,Eddard Stark
+387,CH_127,Joyeuse Erenford,killedBy,Catelyn Stark
+388,CH_127,Joyeuse Erenford,marriedEngaged,Walder Frey
+389,CH_128,Karl Tanner,killed,Craster
+390,CH_128,Karl Tanner,killedBy,Jon Snow
+391,CH_129,Karsi,killedBy,Pack of Wights
+392,CH_129,Karsi,parentOf,Johnna
+393,CH_129,Karsi,parentOf,Willa
+394,CH_131,Kegs,killedBy,Wildling
+395,CH_132,Kevan Lannister,killedBy,Cersei Lannister
+396,CH_132,Kevan Lannister,siblings,Tywin Lannister
+397,CH_132,Kevan Lannister,parentOf,Lancel Lannister
+398,CH_132,Kevan Lannister,parentOf,Martyn Lannister
+399,CH_132,Kevan Lannister,parentOf,Willem Lannister
+400,CH_133,Khal Drogo,killedBy,Daenerys Targaryen
+401,CH_133,Khal Drogo,killed,Viserys Targaryen
+402,CH_133,Khal Drogo,killed,Mago
+403,CH_133,Khal Drogo,marriedEngaged,Daenerys Targaryen
+404,CH_133,Khal Drogo,parentOf,Rhaego
+405,CH_134,Khal Moro,killedBy,Daenerys Targaryen
+406,CH_135,Khal Rhalko,killedBy,Daenerys Targaryen
+407,CH_140,King's Landing Rioter #1,killedBy,Sandor Clegane
+408,CH_141,King's Landing Rioter #2,killedBy,Sandor Clegane
+409,CH_142,King's Landing Rioter #3,killedBy,Sandor Clegane
+410,CH_144,Kitty Frey,marriedEngaged,Walder Frey
+411,CH_148,Kraznys mo Nakloz,killedBy,Drogon
+412,CH_149,Kurleket,killedBy,Mountain Clansman
+413,CH_150,Lady,killedBy,Eddard Stark
+414,CH_150,Lady,siblings,Grey Wind
+415,CH_150,Lady,siblings,Nymeria
+416,CH_150,Lady,siblings,Summer
+417,CH_150,Lady,siblings,Shaggydog
+418,CH_150,Lady,siblings,Ghost
+419,CH_150,Lady,guardianOf,Sansa Stark
+420,CH_151,Lady Crane,killedBy,The Waif
+421,CH_152,Lancel Lannister,killedBy,Cersei Lannister
+422,CH_152,Lancel Lannister,parents,Kevan Lannister
+423,CH_152,Lancel Lannister,siblings,Martyn Lannister
+424,CH_152,Lancel Lannister,siblings,Willem Lannister
+425,CH_158,Lead Dornish Guard,killedBy,Bronn
+426,CH_159,Leaf,actors,"{'actorName': 'Kae Alexander', 'actorLink': '/name/nm5221696/', 'seasonsActive': [6]}"
+427,CH_159,Leaf,actors,"{'actorName': 'Octavia Selena Alexandru', 'actorLink': '/name/nm3238466/', 'seasonsActive': [4]}"
+428,CH_159,Leaf,killedBy,Wights
+429,CH_160,Lem Lemoncloak,killed,Brother Ray
+430,CH_160,Lem Lemoncloak,killedBy,Sandor Clegane
+431,CH_170,Loboda,killedBy,White Walker
+432,CH_171,Locke,killedBy,Hodor
+433,CH_172,Lollys Stokeworth,marriedEngaged,Bronn
+434,CH_173,Lommy Greenhands,killedBy,Polliver
+435,CH_174,Loras Tyrell,killedBy,Cersei Lannister
+436,CH_174,Loras Tyrell,siblings,Margaery Tyrell
+437,CH_174,Loras Tyrell,parents,Mace Tyrell
+438,CH_177,Lord Varys,killedBy,Daenerys Targaryen
+439,CH_179,Lothar Frey,actors,"{'actorName': 'Daniel Tuite', 'actorLink': '/name/nm1264590/', 'seasonsActive': [6]}"
+440,CH_179,Lothar Frey,actors,"{'actorName': 'Tom Brooke', 'actorLink': '/name/nm1623508/', 'seasonsActive': [3]}"
+441,CH_179,Lothar Frey,killed,Talisa Maegyr
+442,CH_179,Lothar Frey,killedBy,Arya Stark
+443,CH_179,Lothar Frey,parents,Walder Frey
+444,CH_182,Lyanna Mormont,killedBy,Wun Wun
+445,CH_182,Lyanna Mormont,killed,Wun Wun
+446,CH_183,Lyanna Stark,parents,Rickard Stark
+447,CH_183,Lyanna Stark,siblings,Brandon Stark
+448,CH_183,Lyanna Stark,siblings,Benjen Stark
+449,CH_183,Lyanna Stark,siblings,Eddard Stark
+450,CH_183,Lyanna Stark,marriedEngaged,Robert Baratheon
+451,CH_183,Lyanna Stark,marriedEngaged,Rhaegar Targaryen
+452,CH_183,Lyanna Stark,abductedBy,Rhaegar Targaryen
+453,CH_183,Lyanna Stark,parentOf,Jon Snow
+454,CH_183,Lyanna Stark,killedBy,Jon Snow
+455,CH_184,Lysa Arryn,houseName,Arryn
+456,CH_184,Lysa Arryn,houseName,Tully
+457,CH_184,Lysa Arryn,killed,Jon Arryn
+458,CH_184,Lysa Arryn,killedBy,Petyr Baelish
+459,CH_184,Lysa Arryn,marriedEngaged,Petyr Baelish
+460,CH_184,Lysa Arryn,parents,Hoster Tully
+461,CH_184,Lysa Arryn,siblings,Catelyn Tully
+462,CH_184,Lysa Arryn,siblings,Edmure Tully
+463,CH_185,Mace Tyrell,killedBy,Cersei Lannister
+464,CH_185,Mace Tyrell,parentOf,Margaery Tyrell
+465,CH_185,Mace Tyrell,parentOf,Loras Tyrell
+466,CH_186,Maester Aemon,killedBy,Old Age
+467,CH_187,Maester Cressen,killedBy,Maester Cressen
+468,CH_187,Maester Cressen,killed,Maester Cressen
+469,CH_188,Maester Luwin,killedBy,Osha
+470,CH_190,Mag the Mighty,killedBy,Grenn
+471,CH_190,Mag the Mighty,killedBy,Donnel Hill
+472,CH_190,Mag the Mighty,killedBy,Cooper
+473,CH_190,Mag the Mighty,killed,Grenn
+474,CH_190,Mag the Mighty,killed,Donnel Hill
+475,CH_190,Mag the Mighty,killed,Cooper
+476,CH_192,Mago,killedBy,Khal Drogo
+477,CH_195,Mance Rayder,killedBy,Melisandre
+478,CH_195,Mance Rayder,killedBy,Jon Snow
+479,CH_196,Mandon Moore,killedBy,Podrick Payne
+480,CH_199,Margaery Tyrell,marriedEngaged,Renly Baratheon
+481,CH_199,Margaery Tyrell,marriedEngaged,Joffrey Baratheon
+482,CH_199,Margaery Tyrell,marriedEngaged,Tommen Baratheon
+483,CH_199,Margaery Tyrell,killedBy,Cersei Lannister
+484,CH_199,Margaery Tyrell,siblings,Loras Tyrell
+485,CH_199,Margaery Tyrell,parents,Mace Tyrell
+486,CH_202,Martyn Lannister,killedBy,Rickard Karstark
+487,CH_202,Martyn Lannister,parents,Kevan Lannister
+488,CH_202,Martyn Lannister,siblings,Lancel Lannister
+489,CH_202,Martyn Lannister,siblings,Willem Lannister
+490,CH_204,Matthos Seaworth,killedBy,Bronn
+491,CH_204,Matthos Seaworth,parents,Davos Seaworth
+492,CH_205,Meera Reed,killed,Jojen Reed
+493,CH_205,Meera Reed,killed,White Walker
+494,CH_205,Meera Reed,parents,Howland Reed
+495,CH_207,Melessa Tarly,marriedEngaged,Randyll Tarly
+496,CH_207,Melessa Tarly,parentOf,Dickon Tarly
+497,CH_207,Melessa Tarly,parentOf,Samwell Tarly
+498,CH_207,Melessa Tarly,parentOf,Talla Tarly
+499,CH_208,Melisandre,killed,Renly Baratheon
+500,CH_208,Melisandre,killed,Axell Florent
+501,CH_208,Melisandre,killed,Mance Rayder
+502,CH_208,Melisandre,killed,Shireen Baratheon
+503,CH_208,Melisandre,killedBy,Old Age
+504,CH_209,Merchant Captain,killedBy,Obara Sand
+505,CH_210,Mero,killedBy,Daario Naharis
+506,CH_211,Meryn Trant,killed,Syrio Forel
+507,CH_211,Meryn Trant,killedBy,Arya Stark
+508,CH_215,Mirri Maz Duur,killedBy,Daenerys Targaryen
+509,CH_215,Mirri Maz Duur,killed,Rhaego
+510,CH_216,Missandei,serves,Daenerys Targaryen
+511,CH_216,Missandei,killedBy,Gregor Clegane
+512,CH_218,Mossador,killedBy,Daario Naharis
+513,CH_218,Mossador,killed,Son of the Harpy
+514,CH_227,Mycah,killedBy,Sandor Clegane
+515,CH_228,Myranda,killedBy,Theon Greyjoy
+516,CH_229,Myrcella Baratheon,actors,"{'actorName': 'Aimee Richardson', 'actorLink': '/name/nm4048461/', 'seasonsActive': [1, 2]}"
+517,CH_229,Myrcella Baratheon,actors,"{'actorName': 'Nell Tiger Free', 'actorLink': '/name/nm4836100/', 'seasonsActive': [5, 6]}"
+518,CH_229,Myrcella Baratheon,parents,Robert Baratheon
+519,CH_229,Myrcella Baratheon,parents,Cersei Lannister
+520,CH_229,Myrcella Baratheon,parents,Jaime Lannister
+521,CH_229,Myrcella Baratheon,siblings,Joffrey Baratheon
+522,CH_229,Myrcella Baratheon,siblings,Tommen Baratheon
+523,CH_229,Myrcella Baratheon,killedBy,Ellaria Sand
+524,CH_229,Myrcella Baratheon,marriedEngaged,Trystane Martell
+525,CH_230,Ned Umber,killedBy,The Night King
+526,CH_242,Nymeria,siblings,Grey Wind
+527,CH_242,Nymeria,siblings,Lady
+528,CH_242,Nymeria,siblings,Summer
+529,CH_242,Nymeria,siblings,Shaggydog
+530,CH_242,Nymeria,siblings,Ghost
+531,CH_242,Nymeria,guardianOf,Arya Stark
+532,CH_243,Nymeria Sand,killedBy,Euron Greyjoy
+533,CH_243,Nymeria Sand,parents,Oberyn Martell
+534,CH_244,Obara Sand,killed,Merchant Captain
+535,CH_244,Obara Sand,killed,Trystane Martell
+536,CH_244,Obara Sand,killedBy,Euron Greyjoy
+537,CH_244,Obara Sand,parents,Oberyn Martell
+538,CH_245,Oberyn Martell,killedBy,Gregor Clegane
+539,CH_245,Oberyn Martell,marriedEngaged,Ellaria Sand
+540,CH_245,Oberyn Martell,parentOf,Obara Sand
+541,CH_245,Oberyn Martell,parentOf,Nymeria Sand
+542,CH_245,Oberyn Martell,parentOf,Tyene Sand
+543,CH_245,Oberyn Martell,siblings,Doran Martell
+544,CH_245,Oberyn Martell,siblings,Elia Martell
+545,CH_248,Olenna Tyrell,killedBy,Jaime Lannister
+546,CH_248,Olenna Tyrell,killed,Joffrey Baratheon
+547,CH_248,Olenna Tyrell,parentOf,Mace Tyrell
+548,CH_249,Olly,killed,Ygritte
+549,CH_249,Olly,killed,Jon Snow
+550,CH_249,Olly,killedBy,Jon Snow
+551,CH_251,Orell,killedBy,Jon Snow
+552,CH_253,Osha,killed,Drennan
+553,CH_253,Osha,killed,Maester Luwin
+554,CH_253,Osha,killedBy,Ramsay Snow
+555,CH_254,Othell Yarwyck,killed,Jon Snow
+556,CH_254,Othell Yarwyck,killedBy,Jon Snow
+557,CH_255,Othor,killedBy,White Walker
+558,CH_255,Othor,killedBy,Jon Snow
+559,CH_257,Petyr Baelish,killed,Joffrey Baratheon
+560,CH_257,Petyr Baelish,killed,Dontos Hollard
+561,CH_257,Petyr Baelish,killed,Lysa Arryn
+562,CH_257,Petyr Baelish,marriedEngaged,Lysa Arryn
+563,CH_257,Petyr Baelish,killedBy,Arya Stark
+564,CH_258,Podrick Payne,killed,Mandon Moore
+565,CH_258,Podrick Payne,killed,Bolton Soldier
+566,CH_258,Podrick Payne,serves,Tyrion Lannister
+567,CH_258,Podrick Payne,serves,Brienne of Tarth
+568,CH_258,Podrick Payne,serves,Bran Stark
+569,CH_259,Polliver,killed,Lommy Greenhands
+570,CH_259,Polliver,killedBy,Arya Stark
+571,CH_260,Prendahl na Ghezn,killedBy,Daario Naharis
+572,CH_261,Pyat Pree,killed,Spice King
+573,CH_261,Pyat Pree,killed,Silk King
+574,CH_261,Pyat Pree,killedBy,Drogon
+575,CH_261,Pyat Pree,killedBy,Viserion
+576,CH_261,Pyat Pree,killedBy,Rhaegal
+577,CH_262,Pypar,killedBy,Ygritte
+578,CH_264,Qhorin Halfhand,killedBy,Jon Snow
+579,CH_265,Qotho,killedBy,Jorah Mormont
+580,CH_267,Qyburn,serves,Cersei Lannister
+581,CH_267,Qyburn,killedBy,Gregor Clegane
+582,CH_268,Rakharo,killedBy,Khal Jhaqo's Khalasar
+583,CH_269,Ramsay Snow,killed,Master Torturer
+584,CH_269,Ramsay Snow,killed,Medger Cerwyn
+585,CH_269,Ramsay Snow,killed,Lady Cerwyn
+586,CH_269,Ramsay Snow,killed,Unidentified Cerwyn
+587,CH_269,Ramsay Snow,killed,Old Woman
+588,CH_269,Ramsay Snow,killed,Roose Bolton
+589,CH_269,Ramsay Snow,killed,Osha
+590,CH_269,Ramsay Snow,killed,Rickon Stark
+591,CH_269,Ramsay Snow,killed,Wun Wun
+592,CH_269,Ramsay Snow,marriedEngaged,Sansa Stark
+593,CH_269,Ramsay Snow,killedBy,Ramsay Snow's Hounds
+594,CH_269,Ramsay Snow,parents,Roose Bolton
+595,CH_270,Randyll Tarly,killedBy,Daenerys Targaryen
+596,CH_270,Randyll Tarly,marriedEngaged,Melessa Tarly
+597,CH_270,Randyll Tarly,parentOf,Dickon Tarly
+598,CH_270,Randyll Tarly,parentOf,Samwell Tarly
+599,CH_270,Randyll Tarly,parentOf,Talla Tarly
+600,CH_271,Rast,killed,Jeor Mormont
+601,CH_271,Rast,killedBy,Ghost
+602,CH_272,Rattleshirt,actors,"{'actorName': 'Edward Dogliani', 'actorLink': '/name/nm2589085/', 'seasonsActive': [2, 3]}"
+603,CH_272,Rattleshirt,actors,"{'actorName': ""Ross O'Hennessy"", 'actorLink': '/name/nm1090815/', 'seasonsActive': [5]}"
+604,CH_272,Rattleshirt,killedBy,Tormund Giantsbane
+605,CH_273,Razdal mo Eraz,killedBy,Grey Worm
+606,CH_274,Red Keep Stableboy,killedBy,Arya Stark
+607,CH_277,Renly Baratheon,killedBy,Melisandre
+608,CH_277,Renly Baratheon,siblings,Robert Baratheon
+609,CH_277,Renly Baratheon,siblings,Stannis Baratheon
+610,CH_277,Renly Baratheon,marriedEngaged,Margaery Tyrell
+611,CH_278,Rhaegal,siblings,Drogon
+612,CH_278,Rhaegal,siblings,Viserion
+613,CH_278,Rhaegal,guardianOf,Daenerys Targaryen
+614,CH_278,Rhaegal,killed,Pyat Pree
+615,CH_278,Rhaegal,killed,Great Master #1
+616,CH_278,Rhaegal,killedBy,Euron Greyjoy
+617,CH_279,Rhaegar Targaryen,parents,Rhaella Targaryen
+618,CH_279,Rhaegar Targaryen,parents,Aerys II Targaryen
+619,CH_279,Rhaegar Targaryen,siblings,Daenerys Targaryen
+620,CH_279,Rhaegar Targaryen,siblings,Viserys Targaryen
+621,CH_279,Rhaegar Targaryen,abducted,Lyanna Stark
+622,CH_279,Rhaegar Targaryen,marriedEngaged,Elia Martell
+623,CH_279,Rhaegar Targaryen,marriedEngaged,Lyanna Stark
+624,CH_279,Rhaegar Targaryen,killedBy,Robert Baratheon
+625,CH_279,Rhaegar Targaryen,parentOf,Jon Snow
+626,CH_279,Rhaegar Targaryen,parentOf,Rhaenys Targaryen
+627,CH_279,Rhaegar Targaryen,parentOf,Aegon Targaryen
+628,CH_280,Rhaego,killedBy,Mirri Maz Duur
+629,CH_280,Rhaego,parents,Khal Drogo
+630,CH_280,Rhaego,parents,Daenerys Targaryen
+631,CH_281,Rhaella Targaryen,parentOf,Daenerys Targaryen
+632,CH_281,Rhaella Targaryen,parentOf,Rhaegar Targaryen
+633,CH_281,Rhaella Targaryen,parentOf,Viserys Targaryen
+634,CH_281,Rhaella Targaryen,siblings,Aerys II Targaryen
+635,CH_281,Rhaella Targaryen,marriedEngaged,Aerys II Targaryen
+636,CH_282,Rhaenys Targaryen,parents,Elia Martell
+637,CH_282,Rhaenys Targaryen,parents,Rhaegar Targaryen
+638,CH_282,Rhaenys Targaryen,sibling,Aegon Targaryen
+639,CH_282,Rhaenys Targaryen,sibling,Jon Snow
+640,CH_282,Rhaenys Targaryen,killedBy,Gregor Clegane
+641,CH_283,Rickard Karstark,actors,"{'actorName': 'John Stahl', 'actorLink': '/name/nm0821471/', 'seasonsActive': [2, 3]}"
+642,CH_283,Rickard Karstark,actors,"{'actorName': 'Steve Blount', 'actorLink': '/name/nm0089416/', 'seasonsActive': [1]}"
+643,CH_283,Rickard Karstark,killed,Martyn Lannister
+644,CH_283,Rickard Karstark,killed,Willem Lannister
+645,CH_283,Rickard Karstark,killedBy,Robb Stark
+646,CH_283,Rickard Karstark,parentOf,Harald Karstark
+647,CH_284,Rickard Stark,parentOf,Brandon Stark
+648,CH_284,Rickard Stark,parentOf,Benjen Stark
+649,CH_284,Rickard Stark,parentOf,Eddard Stark
+650,CH_284,Rickard Stark,parentOf,Lyanna Stark
+651,CH_284,Rickard Stark,killedBy,Aerys II Targaryen
+652,CH_285,Rickon Stark,siblings,Robb Stark
+653,CH_285,Rickon Stark,siblings,Sansa Stark
+654,CH_285,Rickon Stark,siblings,Arya Stark
+655,CH_285,Rickon Stark,siblings,Bran Stark
+656,CH_285,Rickon Stark,killedBy,Ramsay Snow
+657,CH_285,Rickon Stark,parents,Eddard Stark
+658,CH_285,Rickon Stark,parents,Catelyn Stark
+659,CH_285,Rickon Stark,guardedBy,Shaggydog
+660,CH_286,Robb Stark,siblings,Sansa Stark
+661,CH_286,Robb Stark,siblings,Arya Stark
+662,CH_286,Robb Stark,siblings,Bran Stark
+663,CH_286,Robb Stark,siblings,Rickon Stark
+664,CH_286,Robb Stark,killed,Wallen
+665,CH_286,Robb Stark,killed,Rickard Karstark
+666,CH_286,Robb Stark,marriedEngaged,Roslin Frey
+667,CH_286,Robb Stark,marriedEngaged,Talisa Maegyr
+668,CH_286,Robb Stark,killedBy,Roose Bolton
+669,CH_286,Robb Stark,parents,Eddard Stark
+670,CH_286,Robb Stark,parents,Catelyn Stark
+671,CH_286,Robb Stark,guardedBy,Grey Wind
+672,CH_287,Robert Baratheon,guardedBy,Jon Arryn
+673,CH_287,Robert Baratheon,marriedEngaged,Lyanna Stark
+674,CH_287,Robert Baratheon,marriedEngaged,Cersei Lannister
+675,CH_287,Robert Baratheon,allies,Jon Arryn
+676,CH_287,Robert Baratheon,allies,Eddard Stark
+677,CH_287,Robert Baratheon,allies,Tywin Lannister
+678,CH_287,Robert Baratheon,killed,Rhaegar Targaryen
+679,CH_287,Robert Baratheon,parentOf,Joffrey Baratheon
+680,CH_287,Robert Baratheon,parentOf,Myrcella Baratheon
+681,CH_287,Robert Baratheon,parentOf,Tommen Baratheon
+682,CH_287,Robert Baratheon,killedBy,Boar
+683,CH_287,Robert Baratheon,siblings,Stannis Baratheon
+684,CH_287,Robert Baratheon,siblings,Renly Baratheon
+685,CH_289,Robin Arryn,parents,Jon Arryn
+686,CH_289,Robin Arryn,parents,Lysa Arryn
+687,CH_290,Rodrik Cassel,killedBy,Theon Greyjoy
+688,CH_290,Rodrik Cassel,serves,Eddard Stark
+689,CH_291,Roose Bolton,killed,Robb Stark
+690,CH_291,Roose Bolton,killedBy,Ramsay Snow
+691,CH_291,Roose Bolton,parentOf,Ramsay Snow
+692,CH_291,Roose Bolton,marriedEngaged,Walda Bolton
+693,CH_292,Rorge,killedBy,Arya Stark
+694,CH_293,Ros,killedBy,Joffrey Baratheon
+695,CH_294,Roslin Frey,marriedEngaged,Robb Stark
+696,CH_294,Roslin Frey,marriedEngaged,Edmure Tully
+697,CH_294,Roslin Frey,parents,Walder Frey
+698,CH_296,Ryger Rivers,parents,Walder Frey
+699,CH_298,Samwell Tarly,killed,White Walker
+700,CH_298,Samwell Tarly,killed,Thenn Warg
+701,CH_298,Samwell Tarly,parents,Randyll Tarly
+702,CH_298,Samwell Tarly,parents,Melessa Tarly
+703,CH_298,Samwell Tarly,siblings,Dickon Tarly
+704,CH_298,Samwell Tarly,siblings,Talla Tarly
+705,CH_298,Samwell Tarly,marriedEngaged,Gilly
+706,CH_298,Samwell Tarly,parentOf,Baby Sam
+707,CH_299,Sandor Clegane,killed,Mycah
+708,CH_299,Sandor Clegane,killed,Kings Landing Rioter #1
+709,CH_299,Sandor Clegane,killed,Kings Landing Rioter #2
+710,CH_299,Sandor Clegane,killed,Kings Landing Rioter #3
+711,CH_299,Sandor Clegane,killed,Beric Dondarrion
+712,CH_299,Sandor Clegane,killed,Frey Soldier #2
+713,CH_299,Sandor Clegane,killed,Lowell
+714,CH_299,Sandor Clegane,killed,Dying Man
+715,CH_299,Sandor Clegane,killed,Biter
+716,CH_299,Sandor Clegane,killed,Steve
+717,CH_299,Sandor Clegane,killed,Riddell
+718,CH_299,Sandor Clegane,killed,Gatins
+719,CH_299,Sandor Clegane,killed,Morgan
+720,CH_299,Sandor Clegane,killed,Lem Lemoncloak
+721,CH_299,Sandor Clegane,killed,Gregor Clegane
+722,CH_299,Sandor Clegane,killed,Sandor Clegane
+723,CH_299,Sandor Clegane,siblings,Gregor Clegane
+724,CH_299,Sandor Clegane,killedBy,Sandor Clegane
+725,CH_300,Sansa Stark,siblings,Robb Stark
+726,CH_300,Sansa Stark,siblings,Arya Stark
+727,CH_300,Sansa Stark,siblings,Bran Stark
+728,CH_300,Sansa Stark,siblings,Rickon Stark
+729,CH_300,Sansa Stark,marriedEngaged,Joffrey Baratheon
+730,CH_300,Sansa Stark,marriedEngaged,Tyrion Lannister
+731,CH_300,Sansa Stark,marriedEngaged,Ramsay Snow
+732,CH_300,Sansa Stark,guardedBy,Lady
+733,CH_300,Sansa Stark,parents,Eddard Stark
+734,CH_300,Sansa Stark,parents,Catelyn Stark
+735,CH_301,Selyse Baratheon,actors,"{'actorName': 'Tara Fitzgerald', 'actorLink': '/name/nm0001216/', 'seasonsActive': [3, 4, 5]}"
+736,CH_301,Selyse Baratheon,actors,"{'actorName': 'Sarah MacKeever', 'actorLink': '/name/nm5223922/', 'seasonsActive': [2]}"
+737,CH_301,Selyse Baratheon,killedBy,Selyse Baratheon
+738,CH_301,Selyse Baratheon,killed,Selyse Baratheon
+739,CH_301,Selyse Baratheon,marriedEngaged,Stannis Baratheon
+740,CH_301,Selyse Baratheon,parentOf,Shireen Baratheon
+741,CH_303,Septa Mordane,killedBy,Lannister Guardsman
+742,CH_309,Shae,killedBy,Tyrion Lannister
+743,CH_311,Shaggydog,siblings,Grey Wind
+744,CH_311,Shaggydog,siblings,Lady
+745,CH_311,Shaggydog,siblings,Nymeria
+746,CH_311,Shaggydog,siblings,Summer
+747,CH_311,Shaggydog,siblings,Ghost
+748,CH_311,Shaggydog,guardianOf,Rickon Stark
+749,CH_311,Shaggydog,killedBy,Smalljon Umber
+750,CH_312,Shireen Baratheon,killedBy,Melisandre
+751,CH_312,Shireen Baratheon,parents,Stannis Baratheon
+752,CH_312,Shireen Baratheon,parents,Selyse Baratheon
+753,CH_313,Silk King,killedBy,Pyat Pree
+754,CH_314,Smalljon Umber,killed,Shaggydog
+755,CH_314,Smalljon Umber,killedBy,Tormund Giantsbane
+756,CH_314,Smalljon Umber,parents,Greatjon Umber
+757,CH_315,Spice King,killedBy,Pyat Pree
+758,CH_316,Stannis Baratheon,siblings,Robert Baratheon
+759,CH_316,Stannis Baratheon,siblings,Renly Baratheon
+760,CH_316,Stannis Baratheon,killed,Gordy
+761,CH_316,Stannis Baratheon,killed,Simpson
+762,CH_316,Stannis Baratheon,killedBy,Brienne of Tarth
+763,CH_316,Stannis Baratheon,marriedEngaged,Selyse Baratheon
+764,CH_316,Stannis Baratheon,parentOf,Shireen Baratheon
+765,CH_324,Stiv,killedBy,Theon Greyjoy
+766,CH_325,Styr,killed,Olly's Mother
+767,CH_325,Styr,killedBy,Jon Snow
+768,CH_326,Summer,siblings,Grey Wind
+769,CH_326,Summer,siblings,Lady
+770,CH_326,Summer,siblings,Nymeria
+771,CH_326,Summer,siblings,Shaggydog
+772,CH_326,Summer,siblings,Ghost
+773,CH_326,Summer,guardianOf,Bran Stark
+774,CH_326,Summer,killed,Catspaw Assassin
+775,CH_326,Summer,killedBy,Wights
+776,CH_327,Syrio Forel,killedBy,Meryn Trant
+777,CH_328,Talisa Maegyr,marriedEngaged,Robb Stark
+778,CH_328,Talisa Maegyr,killedBy,Lothar Frey
+779,CH_329,Talla Tarly,parents,Randyll Tarly
+780,CH_329,Talla Tarly,parents,Melessa Tarly
+781,CH_329,Talla Tarly,siblings,Dickon Tarly
+782,CH_329,Talla Tarly,siblings,Samwell Tarly
+783,CH_332,The Night King,actors,"{'actorName': 'Richard Brake', 'actorLink': '/name/nm0104114/', 'seasonsActive': [4, 5]}"
+784,CH_332,The Night King,actors,"{'actorName': ""Vladimir 'Furdo' Furdik"", 'actorLink': '/name/nm0298842/', 'seasonsActive': [6, 7, 8]}"
+785,CH_332,The Night King,killed,Three-Eyed Raven
+786,CH_332,The Night King,killed,Viserion
+787,CH_332,The Night King,killed,Ned Umber
+788,CH_332,The Night King,killed,Theon Greyjoy
+789,CH_332,The Night King,killedBy,Arya Stark
+790,CH_333,The Tickler,killed,Tortured Prisoner
+791,CH_333,The Tickler,killedBy,Jaqen H'ghar
+792,CH_334,The Waif,killed,Lady Crane
+793,CH_334,The Waif,killedBy,Arya Stark
+794,CH_335,Thenn Warg,killedBy,Samwell Tarly
+795,CH_336,Theon Greyjoy,killed,Stiv
+796,CH_336,Theon Greyjoy,killed,Rodrik Cassel
+797,CH_336,Theon Greyjoy,killed,Myranda
+798,CH_336,Theon Greyjoy,killed,Bolton Soldier
+799,CH_336,Theon Greyjoy,killed,Harrag
+800,CH_336,Theon Greyjoy,siblings,Yara Greyjoy
+801,CH_336,Theon Greyjoy,parents,Balon Greyjoy
+802,CH_336,Theon Greyjoy,killedBy,The Night King
+803,CH_339,Three-Eyed Raven,actors,"{'actorName': 'Struan Rodger', 'actorLink': '/name/nm0734654/', 'seasonsActive': [4]}"
+804,CH_339,Three-Eyed Raven,actors,"{'actorName': 'Max von Sydow', 'actorLink': '/name/nm0001884/', 'seasonsActive': [6]}"
+805,CH_339,Three-Eyed Raven,killedBy,The Night King
+806,CH_344,Tommen Baratheon,actors,"{'actorName': 'Callum Wharry', 'actorLink': '/name/nm4422626/', 'seasonsActive': [1, 2]}"
+807,CH_344,Tommen Baratheon,actors,"{'actorName': 'Dean-Charles Chapman', 'actorLink': '/name/nm2835616/', 'seasonsActive': [4, 5, 6]}"
+808,CH_344,Tommen Baratheon,parents,Robert Baratheon
+809,CH_344,Tommen Baratheon,parents,Cersei Lannister
+810,CH_344,Tommen Baratheon,parents,Jaime Lannister
+811,CH_344,Tommen Baratheon,siblings,Joffrey Baratheon
+812,CH_344,Tommen Baratheon,siblings,Myrcella Baratheon
+813,CH_344,Tommen Baratheon,marriedEngaged,Margaery Tyrell
+814,CH_344,Tommen Baratheon,killed,Tommen Baratheon
+815,CH_344,Tommen Baratheon,killedBy,Tommen Baratheon
+816,CH_345,Tormund Giantsbane,killed,Rattleshirt
+817,CH_345,Tormund Giantsbane,killed,Smalljon Umber
+818,CH_346,Trystane Martell,marriedEngaged,Myrcella Baratheon
+819,CH_346,Trystane Martell,killedBy,Obara Sand
+820,CH_346,Trystane Martell,parents,Doran Martell
+821,CH_348,Tyene Sand,killed,Areo Hotah
+822,CH_348,Tyene Sand,killed,Maester Caleotte
+823,CH_348,Tyene Sand,killedBy,Cersei Lannister
+824,CH_348,Tyene Sand,parents,Oberyn Martell
+825,CH_348,Tyene Sand,parents,Ellaria Sand
+826,CH_349,Tyrion Lannister,marriedEngaged,Sansa Stark
+827,CH_349,Tyrion Lannister,killed,Shae
+828,CH_349,Tyrion Lannister,killed,Tywin Lannister
+829,CH_349,Tyrion Lannister,parents,Tywin Lannister
+830,CH_349,Tyrion Lannister,siblings,Cersei Lannister
+831,CH_349,Tyrion Lannister,siblings,Jaime Lannister
+832,CH_349,Tyrion Lannister,serves,Daenerys Targaryen
+833,CH_350,Tywin Lannister,parentOf,Jaime Lannister
+834,CH_350,Tywin Lannister,parentOf,Cersei Lannister
+835,CH_350,Tywin Lannister,parentOf,Tyrion Lannister
+836,CH_350,Tywin Lannister,allies,Robert Baratheon
+837,CH_350,Tywin Lannister,servedBy,Gregor Clegane
+838,CH_350,Tywin Lannister,killedBy,Tyrion Lannister
+839,CH_352,Vardis Egen,killedBy,Bronn
+840,CH_353,Varly,killedBy,Goldcloak
+841,CH_354,Viserion,siblings,Drogon
+842,CH_354,Viserion,siblings,Rhaegal
+843,CH_354,Viserion,guardianOf,Daenerys Targaryen
+844,CH_354,Viserion,killed,Pyat Pree
+845,CH_354,Viserion,killed,Great Master #1
+846,CH_354,Viserion,killedBy,The Night King
+847,CH_354,Viserion,killedBy,Arya Stark
+848,CH_355,Viserys Targaryen,parents,Rhaella Targaryen
+849,CH_355,Viserys Targaryen,parents,Aerys II Targaryen
+850,CH_355,Viserys Targaryen,siblings,Daenerys Targaryen
+851,CH_355,Viserys Targaryen,siblings,Rhaegar Targaryen
+852,CH_355,Viserys Targaryen,killedBy,Khal Drogo
+853,CH_356,Walda Bolton,houseName,Bolton
+854,CH_356,Walda Bolton,houseName,Frey
+855,CH_356,Walda Bolton,killedBy,Ramsay Snow's Hounds
+856,CH_356,Walda Bolton,marriedEngaged,Roose Bolton
+857,CH_357,Walder Frey,killedBy,Arya Stark
+858,CH_357,Walder Frey,parentOf,Black Walder Rivers
+859,CH_357,Walder Frey,parentOf,Lothar Frey
+860,CH_357,Walder Frey,parentOf,Roslin Frey
+861,CH_357,Walder Frey,parentOf,Ryger Rivers
+862,CH_357,Walder Frey,marriedEngaged,Joyeuse Erenford
+863,CH_357,Walder Frey,marriedEngaged,Kitty Frey
+864,CH_358,Wallen,killedBy,Robb Stark
+865,CH_360,Waymar Royce,killedBy,White Walker
+866,CH_360,Waymar Royce,parents,Yohn Royce
+867,CH_363,White Walker,killedBy,Samwell Tarly
+868,CH_364,White Walker,killedBy,Jon Snow
+869,CH_364,White Walker,killed,Loboda
+870,CH_368,Will,killedBy,Eddard Stark
+871,CH_369,Willem Lannister,killedBy,Rickard Karstark
+872,CH_369,Willem Lannister,parents,Kevan Lannister
+873,CH_369,Willem Lannister,siblings,Lancel Lannister
+874,CH_369,Willem Lannister,siblings,Martyn Lannister
+875,CH_370,Willis Wode,killedBy,Mountain Clansman
+876,CH_373,Wun Wun,killedBy,Ramsay Snow
+877,CH_373,Wun Wun,killedBy,Lyanna Mormont
+878,CH_373,Wun Wun,killed,Lyanna Mormont
+879,CH_375,Xaro Xhoan Daxos,killedBy,Daenerys Targaryen
+880,CH_376,Yara Greyjoy,parents,Balon Greyjoy
+881,CH_376,Yara Greyjoy,siblings,Theon Greyjoy
+882,CH_378,Ygritte,killed,Old Man
+883,CH_378,Ygritte,killed,Guymon
+884,CH_378,Ygritte,killed,Mole's Town Whore
+885,CH_378,Ygritte,killed,Pypar
+886,CH_378,Ygritte,killedBy,Olly
+887,CH_378,Ygritte,marriedEngaged,Jon Snow
+888,CH_379,Yohn Royce,parentOf,Waymar Royce
+889,CH_380,Yoren,killedBy,Amory Lorch
