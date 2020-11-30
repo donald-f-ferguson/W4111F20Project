@@ -67,8 +67,7 @@ CREATE TABLE `title_basics` (
   `start_year` varchar(45) DEFAULT NULL,
   `end_year` varchar(45) DEFAULT NULL,
   `runtime` varchar(45) DEFAULT NULL,
-  `genres` varchar(256) DEFAULT NULL,
-  PRIMARY KEY (`tconst`)
+  `genres` varchar(256) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -97,8 +96,7 @@ CREATE TABLE `title_episode` (
   `tconst` varchar(128) NOT NULL,
   `parent` varchar(128) DEFAULT NULL,
   `season_number` text,
-  `episode_number` text,
-  PRIMARY KEY (`tconst`)
+  `episode_number` text
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -129,8 +127,7 @@ DROP TABLE IF EXISTS `title_ratings`;
 CREATE TABLE `title_ratings` (
   `tconst` varchar(128) NOT NULL,
   `rating` varchar(45) DEFAULT NULL,
-  `votes` varchar(45) DEFAULT NULL,
-  PRIMARY KEY (`tconst`)
+  `votes` varchar(45) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
