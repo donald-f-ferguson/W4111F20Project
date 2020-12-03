@@ -1,3 +1,13 @@
+
+"""
+
+NOTE: I have not run this code for a while. It is for example purposes only and does not work.
+
+"""
+
+raise NotImplementedError("This module is not implemented.")
+
+
 import pandas as pd
 import process_got_json
 import pymysql
